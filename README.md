@@ -34,10 +34,6 @@ https://qiita.com/odanny/items/06ab88353bcee7bf6aa7
 https://qiita.com/kazukiii/items/df809d6cd5d7d1f57be3#:~:text=RNN%E3%81%AE%E6%A7%8B%E9%80%A0%20RNN#:~:text=RNN%E3%81%AE%E6%A7%8B%E9%80%A0%20RNN  
 
 
-https://soryushi.ynu.ac.jp/theses/bachelor/2004Ishizuki.pdf#:~:text=%E9%9B%BB%E5%AD%90%E9%99%BD%E9%9B%BB%E5%AD%90%E5%AF%BE%E6%B6%88%E6%BB%85%E3%81%AE%E7%90%86  
-https://www.phys.shimane-u.ac.jp/mutou_lab/zakki/super/appendix/electron-phonon.dvi.pdf#:~:text=k%20%E2%88%92%E3%81%AB%E3%81%82%E3%82%8B%E9%9B%BB%E5%AD%90%E3%81%8Cq  
-
-
 
 **object-oriented**  
 https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e#:~:text=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%AF%E3%80%8C
