@@ -37,5 +37,5 @@ https://qiita.com/kazukiii/items/df809d6cd5d7d1f57be3#:~:text=RNN%E3%81%AE%E6%A7
 **object-oriented**  
 https://qiita.com/tutinoco/items/6952b01e5fc38914ec4e#:~:text=%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%AF%E3%80%8C  
 
-**API&Docker**
+**API&Docker**  
 https://qiita.com/yota_dev/items/ab8dea7f71c8a130d5bf#:~:text=FastAPI%20%E3%81%AF%E3%80%81  
