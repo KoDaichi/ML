@@ -31,7 +31,10 @@ https://qiita.com/odanny/items/06ab88353bcee7bf6aa7
 
 **==RNN==**  
 https://qiita.com/kazukiii/items/df809d6cd5d7d1f57be3#:~:text=RNN%E3%81%AE%E6%A7%8B%E9%80%A0%20RNN#:~:text=RNN%E3%81%AE%E6%A7%8B%E9%80%A0%20RNN  
-  
+
+**==OCSR==**  
+https://magattaca.hatenablog.com/entry/2021/11/28/202737#:~:text=%E3%81%93%E3%81%AE%E3%82%BD%E3%83%95%E3%83%88%E3%81%AF%E3%80%8C%E5%8C%96%E5%AD%A6%E6%A7%8B  
+
 
 ## Else ##  
 **object-oriented**  
